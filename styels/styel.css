@@ -1,0 +1,13 @@
+/* top plaers styels */
+.players{
+    display: grid;
+    /* grid-template-columns: repeat(3,1fr); */
+    grid-template-columns: repeat(3,1fr);
+}
+.player{
+    display: flex;
+}
+.players img{
+    width: 56px;
+    height: 56px;
+}
